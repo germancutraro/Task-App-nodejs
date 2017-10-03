@@ -31,7 +31,7 @@ npm start
 
 ## Thanks to
 
-* Fazt https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg
+* [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg)
 
 ## Why
 
