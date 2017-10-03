@@ -31,7 +31,7 @@ npm start
 
 ## Thanks to
 
-* Fazt(http://www.dropwizard.io/1.0.2/docs/) 
+* Fazt https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg
 
 ## Why
 
