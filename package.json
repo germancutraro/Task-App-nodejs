@@ -1,0 +1,14 @@
+{
+  "name": "Task-App-nodejs",
+  "version": "1.0.0",
+  "description": "Task rest app system using nodejs, express and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "germancutraros",
+  "license": "MIT"
+}
