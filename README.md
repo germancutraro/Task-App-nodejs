@@ -29,6 +29,10 @@ npm start
 
 **germancutraro**
 
+## Thanks to
+
+* Fazt(http://www.dropwizard.io/1.0.2/docs/) 
+
 ## Why
 
 * Practise
